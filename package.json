@@ -1,0 +1,13 @@
+{
+  "name": "any2any",
+  "version": "1.0.0",
+  "description": "convert uploaded mp3 to wav",
+  "main": "index.js",
+  "scripts": {
+    "local": "node local.js"
+  },
+  "dependencies": {
+    "cloudconvert": "^1.1.1"
+  },
+  "devDependencies": {}
+}
